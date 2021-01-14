@@ -35,6 +35,6 @@
 </br></br>
 #### 제 3장  </br>
 ✅ 아이템10. equals는 일반 규약을 지켜 재정의하라.  </br>
-- 정리 : 
+- 정리 : https://100100e.tistory.com/416?category=841187
 
 
