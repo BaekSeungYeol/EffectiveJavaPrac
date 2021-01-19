@@ -40,3 +40,7 @@
 ✅ 아이템11. equals를 재정의하려거든 hashCode도 재정의하라.  </br>
 - 정리 : https://100100e.tistory.com/420?category=841187
 
+
+✅ 아이템12. toString을 항상 재정의하라  </br>
+- 정리 : https://100100e.tistory.com/421?category=841187
+
