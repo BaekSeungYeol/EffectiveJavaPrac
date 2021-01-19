@@ -37,4 +37,6 @@
 ✅ 아이템10. equals는 일반 규약을 지켜 재정의하라.  </br>
 - 정리 : https://100100e.tistory.com/416?category=841187
 
+✅ 아이템11. equals를 재정의하려거든 hashCode도 재정의하라.  </br>
+- 정리 : https://100100e.tistory.com/420?category=841187
 
