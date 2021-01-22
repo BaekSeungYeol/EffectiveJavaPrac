@@ -46,3 +46,6 @@
 
 ✅ 아이템13. clone 재정의는 주의해서 진행하라  </br>
 - 정리 : https://100100e.tistory.com/422?category=841187
+
+✅ 아이템14. Comparable을 구현할지 고려하라  </br>
+- 정리 : https://100100e.tistory.com/423?category=841187
