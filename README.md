@@ -56,3 +56,6 @@
 #### 제 4장  </br>
 ✅ 아이템15. 클래스와 멤버의 접근 권한을 최소화하라.  </br>
 - 정리 : https://100100e.tistory.com/427?category=841187
+
+✅ 아이템16. public 클래스에서는 public 필드가 아닌 접근자 메서드를 사용하라  </br>
+- 정리 : https://100100e.tistory.com/440?category=841187
