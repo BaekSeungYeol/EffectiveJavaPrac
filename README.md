@@ -49,3 +49,10 @@
 
 ✅ 아이템14. Comparable을 구현할지 고려하라  </br>
 - 정리 : https://100100e.tistory.com/423?category=841187
+
+
+
+</br></br>
+#### 제 4장  </br>
+✅ 아이템15. 클래스와 멤버의 접근 권한을 최소화하라.  </br>
+- 정리 : https://100100e.tistory.com/427?category=841187
