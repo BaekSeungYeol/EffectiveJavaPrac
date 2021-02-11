@@ -59,3 +59,6 @@
 
 ✅ 아이템16. public 클래스에서는 public 필드가 아닌 접근자 메서드를 사용하라  </br>
 - 정리 : https://100100e.tistory.com/440?category=841187
+
+✅ 아이템17. 변경 가능성을 최소화하라  </br>
+- 정리 : https://100100e.tistory.com/4570?category=841187
