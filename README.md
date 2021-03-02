@@ -61,4 +61,7 @@
 - 정리 : https://100100e.tistory.com/440?category=841187
 
 ✅ 아이템17. 변경 가능성을 최소화하라  </br>
-- 정리 : https://100100e.tistory.com/4570?category=841187
+- 정리 : https://100100e.tistory.com/457?category=841187
+
+✅ 아이템18. 상속보다는 컴포지션을 사용하라  </br>
+- 정리 : https://100100e.tistory.com/473?category=841187
