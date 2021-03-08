@@ -80,3 +80,6 @@
 
 ✅ 아이템23. 태그 달린 클래스보다는 클래스 계층구조를 활용하라 </br>
 - 정리 : https://100100e.tistory.com/478?category=841187
+
+✅ 아이템24. 멤버 클래스는 되도록 static으로 만들라 </br>
+- 정리 : https://100100e.tistory.com/479?category=841187
