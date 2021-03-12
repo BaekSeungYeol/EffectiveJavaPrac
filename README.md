@@ -92,3 +92,6 @@
 #### 제 5장  </br>
 ✅ 아이템26. 로(RAW) 타입은 사용하지 말라 </br>
 - 정리 : https://100100e.tistory.com/481?category=841187
+
+✅ 아이템27. 비검사 경고를 제거하라 </br>
+- 정리 : https://100100e.tistory.com/482?category=841187
