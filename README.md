@@ -95,3 +95,6 @@
 
 ✅ 아이템27. 비검사 경고를 제거하라 </br>
 - 정리 : https://100100e.tistory.com/482?category=841187
+
+✅ 아이템28. 배열보다는 리스트를 사용하라 </br>
+- 정리 : https://100100e.tistory.com/482?category=841187
