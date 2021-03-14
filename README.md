@@ -98,3 +98,6 @@
 
 ✅ 아이템28. 배열보다는 리스트를 사용하라 </br>
 - 정리 : https://100100e.tistory.com/482?category=841187
+
+✅ 아이템29. 이왕이면 제네릭 타입으로 만들라 1 </br>
+- 정리 : https://100100e.tistory.com/483?category=841187
