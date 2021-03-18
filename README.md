@@ -104,3 +104,6 @@
 
 ✅ 아이템30. 이왕이면 제네릭 타입으로 만들라 2 </br>
 - 정리 : https://100100e.tistory.com/484?category=841187
+
+✅ 아이템31. 한정적 와일드카드를 사용해 API 유연성을 높이라 </br>
+- 정리 : https://100100e.tistory.com/485?category=841187
