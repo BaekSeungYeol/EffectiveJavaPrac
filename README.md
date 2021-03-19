@@ -97,13 +97,16 @@
 - 정리 : https://100100e.tistory.com/482?category=841187
 
 ✅ 아이템28. 배열보다는 리스트를 사용하라 </br>
-- 정리 : https://100100e.tistory.com/482?category=841187
-
-✅ 아이템29. 이왕이면 제네릭 타입으로 만들라 1 </br>
 - 정리 : https://100100e.tistory.com/483?category=841187
 
-✅ 아이템30. 이왕이면 제네릭 타입으로 만들라 2 </br>
+✅ 아이템29. 이왕이면 제네릭 타입으로 만들라 1 </br>
 - 정리 : https://100100e.tistory.com/484?category=841187
 
-✅ 아이템31. 한정적 와일드카드를 사용해 API 유연성을 높이라 </br>
+✅ 아이템30. 이왕이면 제네릭 타입으로 만들라 2 </br>
 - 정리 : https://100100e.tistory.com/485?category=841187
+
+✅ 아이템31. 한정적 와일드카드를 사용해 API 유연성을 높이라 </br>
+- 정리 : https://100100e.tistory.com/486?category=841187
+
+✅ 아이템32. 제네릭과 가변인수를 함께 쓸 때는 신중하라 </br>
+- 정리 : https://100100e.tistory.com/487?category=841187
