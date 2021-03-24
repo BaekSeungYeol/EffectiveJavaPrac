@@ -113,3 +113,6 @@
 
 ✅ 아이템33. 타입 안전 이종 컨테이너를 고려하라 </br>
 - 정리 : https://100100e.tistory.com/488?category=841187
+
+✅ 아이템34. int 상수 대신 열거 타입을 사용하라 </br>
+- 정리 : https://100100e.tistory.com/489?category=841187
