@@ -116,3 +116,9 @@
 
 ✅ 아이템34. int 상수 대신 열거 타입을 사용하라 </br>
 - 정리 : https://100100e.tistory.com/489?category=841187
+
+✅ 아이템35. ordinal 메서드 대신 인스턴스 필드를 사용하라 </br>
+- 정리 : https://100100e.tistory.com/490?category=841187
+
+✅ 아이템36. 비트 필드 대신 EnumSet을 사용하라 </br>
+- 정리 : https://100100e.tistory.com/491?category=841187
