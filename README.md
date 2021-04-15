@@ -123,5 +123,8 @@
 ✅ 아이템36. 비트 필드 대신 EnumSet을 사용하라 </br>
 - 정리 : https://100100e.tistory.com/491?category=841187
 
-✅ 아이템37. 비아이템 37. ordinal 인덱싱 대신 EnumMap을 사용하라. </br>
+✅ 아이템37. ordinal 인덱싱 대신 EnumMap을 사용하라. </br>
 - 정리 : https://100100e.tistory.com/492?category=841187
+
+✅ 아이템38. 확장할 수 있는 열거 타입이 필요하면 인터페이스를 사용하라 </br>
+- 정리 : https://100100e.tistory.com/503?category=841187
