@@ -131,3 +131,6 @@
 
 ✅ 아이템39. 명명 패턴보다 애너테이션을 사용하라 </br>
 - 정리 : https://100100e.tistory.com/505?category=841187
+
+✅ 아이템40. @Override 애너테이션을 일관되게 사용하라 </br>
+- 정리 : https://100100e.tistory.com/506?category=841187
