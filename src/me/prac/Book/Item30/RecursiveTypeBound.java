@@ -3,8 +3,11 @@ package me.prac.Book.Item30;
 import java.util.*;
 import java.util.concurrent.ScheduledExecutorService;
 import java.util.concurrent.ScheduledFuture;
+import java.util.stream.Collector;
+import java.util.stream.Collectors;
 
 public class RecursiveTypeBound {
+
     public static <E extends Comparable<? super E>> E max(List<? extends E> list) {
         if (list.isEmpty())
             throw new IllegalArgumentException("컬렉션이 비어 있습니다.");
@@ -24,4 +27,6 @@ public class RecursiveTypeBound {
         List<ScheduledFuture<?>> scheduledFutures = new ArrayList<>();
         max(scheduledFutures);
     }
+
+
 }
